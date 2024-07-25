@@ -12,7 +12,6 @@ This repository contains an image classification model that differentiates betwe
 - [Inference](#inference)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
