@@ -1,8 +1,8 @@
 import tensorflow as tf
-from tensorflow.keras.models import Sequential # type: ignore
-from tensorflow.keras import layers, models # type: ignore
-from tensorflow.keras.preprocessing.image import ImageDataGenerator # type: ignore
-from tensorflow.keras.applications import VGG16 # type: ignore
+from tensorflow.keras.models import Sequential 
+from tensorflow.keras import layers, models 
+from tensorflow.keras.preprocessing.image import ImageDataGenerator 
+from tensorflow.keras.applications import VGG16 
 import os
 import numpy as np
 import matplotlib.pyplot as plt
